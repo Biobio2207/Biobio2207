@@ -34,7 +34,7 @@ Passionné par l'électronique et le développement logiciel, j'aime faire le po
 
 ### 📫 Me contacter
 
-- **GitHub :** [CyrilBaletaud](https://github.com/Biobio2207)
+- **GitHub :** [Thomas (Biobio)](https://github.com/Biobio2207)
 
 ---
 
